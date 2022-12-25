@@ -10,9 +10,9 @@ def revList(l):
 
 
 l = [10,20,20,30]
-l = ['Shubham', 'Sourabh', 'Gupta']
+# l = ['Shubham', 'Sourabh', 'Gupta']
 print(revList(l))
 
 # using library methods
-print(l.reverse())
+# print(l.reverse())
 print(l[::-1])
