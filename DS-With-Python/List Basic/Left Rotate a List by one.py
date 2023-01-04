@@ -10,3 +10,9 @@ def rotateArr(l):
 
 arr = [10,20,20,30,30,30,30,50]
 print(rotateArr(arr))
+
+neew = [1,2,3,45]
+
+
+prnt(new)
+
